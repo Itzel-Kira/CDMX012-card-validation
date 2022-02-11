@@ -1,0 +1,55 @@
+body{
+    background: url(fondo.png);
+    background-size: 100%;
+    text-align: center;
+   }
+
+header {
+    font-family:'Segoe UI';
+    color: white;
+    font-size: 50px;
+    padding: 8px;
+    text-shadow: 2px -2px magenta;
+    background-color: rgba(238, 130, 238, 0.692);
+    }
+    
+p{
+    font-family:Georgia, 'Times New Roman', Times, serif
+    font-size: 10px;
+}
+
+input{
+    background-color:rgba(0, 140, 255, 0.253);
+}
+    
+div {
+       background: white;
+       width:  500px; 
+       height: 250px;
+       text-align: center;
+       margin-left: auto;
+       margin-right: auto;
+       font-size: 20px;
+       font-family: Verdana, Geneva, Tahoma, sans-serif;
+       color: rgb(98, 0, 255);
+       text-shadow: 1px -2px rgba(220, 43, 226, 0.822);
+       }
+
+
+#botonValidar{
+    margin: 50px auto;
+    width: 170px;
+    height: 40px;
+    background-color: #ff1493;
+    font-family: Verdana, Tahoma, sans-serif;
+    font-size: 20px;
+    color: white;
+}
+
+footer { 
+    color: white;
+    font-size: 20px;
+    padding: 10px;
+    justify-content: center;
+    text-shadow: 1px -2px magenta;
+    }
